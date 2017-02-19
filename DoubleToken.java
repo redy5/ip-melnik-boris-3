@@ -1,3 +1,5 @@
+/*ip 3 melnik boris
+forgot to make comments*/
 import java.io.Serializable;
 
 public class DoubleToken implements Serializable{ //if u need for wxample to make 3-word combinations dictionary - u can just add new word in this class, which will effectively create a 3 word chain, and so on
